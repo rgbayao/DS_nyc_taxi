@@ -1,5 +1,5 @@
 # DS_nyc_taxi
-Arquivos correspondentes à avaliação para Engenheiro de Dados.
+Arquivos correspondentes à avaliação para Engenheiro de Dados. Para acessar o conteúdo completo da avaliação siga para o repositório em https://github.com/rgbayao/DS_nyc_taxi.
 ## Arquivos inclusos
 - Analise.html : Contem a análise dos dados, junto com os quesitos requisitados de forma descritiva.
 - Analise.ipynb : Código em jupyter notebook utilizado para criação do arquivo Analise.html.
