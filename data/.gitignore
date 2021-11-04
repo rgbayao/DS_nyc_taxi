@@ -1,0 +1,4 @@
+# Heavy data
+*.json
+*.csv
+*.db
