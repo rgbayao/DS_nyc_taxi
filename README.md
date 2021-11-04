@@ -7,8 +7,8 @@ Arquivos correspondentes à avaliação para Engenheiro de Dados. Para acessar o
   - Criação do banco de dados em SQLite.
   - Escrita do GeoJson usado para plot geográfico.
   - Manipulações em Pandas e SQL dos dados
-- Requirements.txt : Lista de pacotes instalados e respectivas versões necessários para execução dos notebooks.
+- requirements.txt : Lista de pacotes instalados e respectivas versões necessários para execução dos notebooks.
 ## Pastas inclusas
-- sql_parser : pacote em python criado para simular, simplificadamente, uma utilização sofisticada de SQL em Python.
+- sql_parser : Pacote em python criado para simular, simplificadamente, uma utilização sofisticada de SQL em Python.
 - data : Conjunto de arquivos de dados utilizados. Foi feito upload apenas dos dados não disponíveis externamente.
 - imagens : Imagens usadas para formatação do arquivo Analise.html.
