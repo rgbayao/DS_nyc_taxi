@@ -6,7 +6,7 @@ Arquivos correspondentes à avaliação para Engenheiro de Dados. Para acessar o
 - Codes_and_Scripts : Conjunto de códigos auxiliares usados para:
   - Criação do banco de dados em SQLite.
   - Escrita do GeoJson usado para plot geográfico.
-  - Manipulações em Pandas e SQL dos dados
+  - Manipulações em Pandas e SQL dos dados.
 - requirements.txt : Lista de pacotes instalados e respectivas versões necessários para execução dos notebooks.
 ## Pastas inclusas
 - sql_parser : Pacote em python criado para simular, simplificadamente, uma utilização sofisticada de SQL em Python.
